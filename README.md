@@ -34,9 +34,5 @@ Want to help? Follow these steps:
 4. Push your changes.
 5. Open a pull request.
 
-## Support
-
-Questions? Email us at support@tastytales.example.com.
-
 
 Happy cooking with TastyTales!
