@@ -1,0 +1,29 @@
+.header, .header2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header{
+    font-size: 32;
+    color: white;
+    background-color: black;
+    
+}
+
+.header2{
+    font-size: 27;
+    background-color: darkmagenta;
+    color:bisque;
+}
+
+.para, .list{
+    font-size: 24;
+
+}
+
+.list{
+    color:green;
+}
+
+.para{
+    color: purple;
+}
