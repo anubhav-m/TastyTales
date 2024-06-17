@@ -6,7 +6,9 @@
     font-size: 32;
     color: white;
     background-color: black;
-    
+    width: 780px;
+    margin: auto;
+    text-align: center;
 }
 
 .header2{
@@ -26,4 +28,8 @@
 
 .para{
     color: purple;
+}
+
+*{
+    outline: 2px solid red;
 }

@@ -9,3 +9,7 @@
     color:red;
     font-size: 27px;
 }
+
+*{
+    outline: 2px solid red;
+}
