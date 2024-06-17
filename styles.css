@@ -1,15 +1,63 @@
-.header{
-    background-color: black;
-    color: white;
-    font-size: 32px;
-    text-align: center;
-}
-
-.list-common{
-    color:red;
-    font-size: 27px;
+body{
+    background-color: rgba(17,24,40,255);
 }
 
 *{
-    outline: 2px solid red;
+    box-sizing: border-box;
+}
+
+.header{
+    margin:10px;
+    text-align: center;
+}
+
+.image{
+    width: 40px;
+    margin-bottom: 56px;
+}
+
+.image2{
+    width: 200px;
+}
+
+
+.main{
+    margin:0 20% 2% 20%;
+}
+
+.parahead{
+    color:white;
+    font-size:24px;
+    margin:20px 0px;
+}
+
+.para{
+    margin:0 35px 0 35px; 
+    color: wheat;
+    font-size:19px;
+}
+
+.mid{
+    width:980px;
+    margin:0 auto;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.list-common{
+    margin:0 20% 2% 20%;
+    color:white;
+}
+
+.list{
+    padding:8px;
+}
+
+button{
+    padding:6px;
+}
+
+.textsize{
+    font-size: 15px;
+    color:black;
 }
